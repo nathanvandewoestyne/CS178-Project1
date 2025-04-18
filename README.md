@@ -14,7 +14,7 @@ Technology Used:
 Set up and Run Instructions:
 To set up the flask app must be started by running the Project1.py file in VSCode. Ideally I would've separated some of the code into another file called DbCode, but I could not get that file to import, so all the code is the Project1.py file. Once the code is ran,the user can navigate to the IP where the flask app is running. There, the user will be prompted to create a username and password. After they register, the user can begin their search.
 
-I attempted to implement CRUD, but I couldn't get it work completely, if you see any extra code in the files, it is likely pieces that I could not fix.
+I attempted to implement CRUD, but I couldn't get it work completely, if you see any extra code in the files, it is likely pieces that I could not fix. 
   
 
 
